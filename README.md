@@ -3,7 +3,7 @@
 **Prediction markets are often right—just not early.**
 **Submanac rewards traders who commit positions early, when signals truly shape decisions.**
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : AoqcRx3mDRx96S8uZ5c2hLhbnH1dxJveY3dt2LCppump
 ---
 
 ## 🚀 Overview
